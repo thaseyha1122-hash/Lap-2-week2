@@ -1,0 +1,14 @@
+/* TODO */
+button{
+    color: white;
+    padding: 12px 30px;
+    background-color: pink;
+    border: 5px solid rgb(255, 110, 175);
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: larger;
+}
+button:hover{
+    background-color: rgb(236, 116, 236);
+    border: 5px solid rgb(114, 11, 83);
+}
