@@ -12,7 +12,7 @@ div{
     border-radius: 10px;
     margin-bottom: 30px;
 }
-div,button{
+div button{
     padding: 10px;
     border-radius: 30px;
     cursor: pointer;
